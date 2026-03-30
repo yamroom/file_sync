@@ -1,5 +1,5 @@
 # 正式資料夾
-MASTER_FOLDER=C:\Users\user\Desktop\aaa\master
+MASTER_FOLDER=C:\Users\user\Desktop\file_sync\master
 
 # 要管理的檔名清單，以逗號分隔
 FILES=file.txt,file copy.txt
